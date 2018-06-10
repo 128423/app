@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "170613750526",
+    "firebase_url": "https://appfirebaseproject-cfa16.firebaseio.com",
+    "project_id": "appfirebaseproject-cfa16",
+    "storage_bucket": "appfirebaseproject-cfa16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170613750526:android:51aff43f30a8065e",
+        "android_client_info": {
+          "package_name": "com.example.pinot.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170613750526-gab8p4vc8mvg8n9papjum94514g1dnsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pinot.app",
+            "certificate_hash": "459ca87aa5366a491ffae45d671fac1e2785e8ac"
+          }
+        },
+        {
+          "client_id": "170613750526-kip4k0m3h8vocukrt9pf66s0rin7ftcf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "170613750526-kip4k0m3h8vocukrt9pf66s0rin7ftcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepZQziO5R8Xri4Nz1tg3fAj5icVv6gnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170613750526-kip4k0m3h8vocukrt9pf66s0rin7ftcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
